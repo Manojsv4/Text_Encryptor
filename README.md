@@ -36,7 +36,7 @@ Image_file_encrypter.py instructions:
 
 6/.Kindly enter only numbers in place of options input
 
-7/.If you like the algorithm or any more bright ideas text me on code_machine_1434@protonmail.com or chidha1434@gmail.com
+7/.If you like the algorithm or any more bright ideas text me on svmanojpadmesh@gmail.com
 
 8/.The encrypted file is created in the same location of the parent file
 
